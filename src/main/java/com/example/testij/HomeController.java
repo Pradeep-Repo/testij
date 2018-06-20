@@ -9,6 +9,6 @@ public class HomeController {
     @GetMapping("/home")
     public String getname()
     {
-        return "pradeep singh bhati";
+        return "pradeep bhati Ashim usmani";
     }
 }
